@@ -2,7 +2,7 @@
 
 Video demo: https://youtu.be/Uxlg-xcYgaY
 
-I overheard someone in my Digital Electronics class joking about playing the Bad Apple music video in Logisim and I thought it might be a fun project.
+I overheard someone in my Digital Electronics class joking about playing the Bad Apple music video in the logic simulation software we've been using called Logisim and I thought it might be a fun project.
 
 The Bad Apple music video is commonly put on weird displays as a challange (similar to loading Doom onto weird things) due to it being only two colors: black and white.
 
